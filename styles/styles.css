@@ -1,0 +1,189 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.profile-img {
+    width: 470px;
+    height: 470px;
+    border-radius: 50%;
+}
+
+.main-content {
+    margin:0 auto;
+    width: 70%;
+}
+
+.bios {
+    text-align: center;
+}
+
+.main-content .upper-sect {
+    align-items: center;
+}
+.main-content .upper-sect h1 {
+    font-family: Cambria;
+    font-size: 90px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.main-content .upper-sect h3 {
+    font-family: serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.social-icons {
+    margin: 30px 0;
+    text-align: center;
+}
+
+.social-icons .twitter {
+    padding: 0 20px;
+}
+
+.about-me {
+    display: flex;
+    gap: 10%;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.about-me .about-title h2 {
+    font-size: 35px;
+    font-weight: 800;
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.about-title, .about-content {
+    width: 50%;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: tahoma;
+}
+
+.about-content h4 {
+    font-size: 25px;
+    font-weight: 600;
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.chat-now {
+    display: flex;
+    align-items: center;
+    gap: 2%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.margin {
+    margin: 7% 0;
+}
+
+.one {
+    font-size: 80px;
+    font-weight: 900;
+}
+
+.design-par {
+    font-weight: 900;
+    font-size: 50px;
+    color: beige;
+}
+
+.img-2 {
+    width: 250px;
+    height: 250px;
+    border-radius: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.img-1 {
+    width: 250px;
+    height: 250px;
+    border-radius: 20%;
+}
+
+.img-3 {
+    width: 250px;
+    height: 250px;
+    border-radius: 20%;
+}
+
+.img-4, .img-5, .img-6 {
+    width: 250px;
+    height: 250px;
+    border-radius: 20%;
+    padding: 10px 10px;
+}
+
+.button-section{
+    display: flex;
+    justify-content: center;
+}
+.button-section button {
+    background-color: gray;
+    padding: 8px 40px;
+    border: none;
+    color: white;
+}
+
+.lower-part {
+    display: flex;
+    gap: 10%;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.lower-part .lower-1 h2 {
+    font-size: 15px;
+    font-weight: 800;
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lower-part, .lower-2 {
+    font-size: 15px;
+    font-weight: 400;
+    color: bisque;
+    font-family: tahoma;
+}
+
+.jane {
+    width: 75px;
+    height: 60px;
+}
+
+.text-center-2 {
+    text-align: center;
+    margin: 7% 0;
+}
+
+.design {
+    font-weight: 900;
+    font-size: 60px;
+    color: beige;
+}
+
+.number {
+    font-weight: 500;
+    font-size: 35px;
+    color: beige;
+}
+
+.small {
+    width: 180px;
+    height: 170px;
+    border-radius: 50%;
+}
+
+.location{
+    font-weight: 600;
+    font-size: 30px;
+    color: beige;
+    font-family: Tahoma;
+}
